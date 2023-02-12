@@ -233,6 +233,12 @@ p {
 .welcome-text {
     font-size: 16px;
 }
+.hero-container{
+    padding: 5px 30px 30px 30px;
+}
 
+button:hover{
+    background-color: blue;
+}
 /* data:image/svg+xml;base64,[data] */
 /* 🔎 */
